@@ -1,4 +1,5 @@
 *.classpath
-webDriverManager/.project
-webDriverManager/.settings/
-webDriverManager/test-output/
+/target/
+.project
+.settings/
+test-output/
